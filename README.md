@@ -9,12 +9,16 @@
 **دانلود ویدیو و صدای یوتیوب مستقیماً به Google Drive — رایگان، سریع و بدون محدودیت**
 
 </div>
+
 ---
+
+
 ###جهت حمایت از پروژه:
-- 0x16CB89f0a8c10be25922F9f92A7852c9689ae2b0 USDT - ERC20
-- 0x16CB89f0a8c10be25922F9f92A7852c9689ae2b0 USDT BEP-20
-- TUmpv4u2FTnwhfjLr9J1rvPRhR1pCx4ct6 TRON
----
+- 0x16CB89f0a8c10be25922F9f92A7852c9689ae2b0      - USDT - ERC20
+- 0x16CB89f0a8c10be25922F9f92A7852c9689ae2b0      - USDT BEP-20
+- TUmpv4u2FTnwhfjLr9J1rvPRhR1pCx4ct6              - TRON
+
+
 
 ## 🇮🇷 فارسی
 
